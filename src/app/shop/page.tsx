@@ -1,66 +1,46 @@
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
 
-export default function Home() {
+export default function Shop() {
   return (
     <main>
       {/* header section */}
         <section>
-          <div className="md:flex bg-gray-100">
-              <div className="pt-5 sm:pt-10 md:pt-15 lg:pt-20 
-                              px-5 sm:px-5 md:px-10 lg:px-10">
-                <h1 className="text-5xl sm:text-4xl md:text-5xl lg:text-6xl
-                              font-bold sm:font-bold md:font-bold lg:font-bold">
-                              FIND CLOTHES THAT MATCHES YOUR STYLE</h1>
-                <p className="pt-5 sm:pt-5 md:pt-10 lg:pt-10
-                            pb-5 sm:pb-5 md:pb-10 lg:pb-10 text-gray-600
-                            text-xs sm:text-sm md:text-base lg:text-base
-                            text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde quasi vitae ratione culpa assumenda fuga recusandae mollitia tempora consequuntur voluptatibus fugit laudantium ad, eos maiores! Quod dolor perspiciatis saepe asperiores?</p>
-                <Button>Shop Now</Button>
-                <div className="flex gap-5">
-                <p className="pt-5 sm:pt-5 md:pt-10 lg:pt-10
-                            font-semibold text-center
-                            text-base sm:text-base md:text-lg lg:text-xl">
-                            200+ <br/>
-                    <span className="text-sm sm:text-sm md:text-base lg:text-base
-                            text-gray-400 font-light">
-                            International Brands</span></p>
-                
-                            <p className="pt-5 sm:pt-5 md:pt-10 lg:pt-10
-                            font-semibold text-center
-                            text-base sm:text-base md:text-lg lg:text-xl">
-                            2000+ <br/>
-                    <span className="text-sm sm:text-sm md:text-base lg:text-base
-                            text-gray-400 font-light">
-                            High Quality Products</span></p>
-
-                            <p className="pt-5 sm:pt-5 md:pt-10 lg:pt-10
-                            font-semibold text-center
-                            text-base sm:text-base md:text-lg lg:text-xl">
-                            3000+ <br/>
-                    <span className="text-sm sm:text-sm md:text-base lg:text-base
-                            text-gray-400 font-light">
-                            Happy Customers</span></p>
-                            </div>
-              </div>
-              <div>
-                <Image src="/img-1.png" alt="couple" width={1200} height={500}/>
-              </div>
-          </div>
+         <div className="bg-gray-100 px-5 sm:px-10 md:px-12 lg:px-20 pt-5 pb-5">
+            <Button className="mx-2 md:mx-4 
+            h-5 sm:h-7 md:h-8 lg:h-10
+            px-3 sm:px-5 md:px-5 lg:px-8">
+            Previous</Button>
+            <Button className="mx-2 md:mx-4
+            h-5 sm:h-7 md:h-8 lg:h-10
+            px-3 sm:px-5 md:px-5 lg:px-8">
+                1</Button>
+            <Button className="mx-2 md:mx-4
+            h-5 sm:h-7 md:h-8 lg:h-10
+            px-3 sm:px-5 md:px-5 lg:px-8">
+                2</Button>
+            <Button className="mx-2 md:mx-4
+            h-5 sm:h-7 md:h-8 lg:h-10
+            px-3 sm:px-5 md:px-5 lg:px-8">
+                3</Button>
+            <Button className="mx-2 md:mx-4
+            h-5 sm:h-7 md:h-8 lg:h-10
+            px-3 sm:px-5 md:px-5 lg:px-8">
+                4</Button>
+            <Button className="mx-2 md:mx-4
+            h-5 sm:h-7 md:h-8 lg:h-10
+            px-3 sm:px-5 md:px-5 lg:px-8">
+                5</Button>
+            <Button className="mx-2 md:mx-4
+            h-5 sm:h-7 md:h-8 lg:h-10
+            px-3 sm:px-5 md:px-5 lg:px-8">
+                Next</Button>
+            
+         </div>
         </section>
       
 
-      {/* advertisment */}
-          <section>
-            <div className="flex justify-center md:gap-20 bg-black pt-5 pb-5 px-32">
-              <Image src="/group-1.png" alt="brands" width={80} height={10} />
-              <Image src="/group-2.png" alt="brands" width={80} height={10} />
-              <Image src="/group-3.png" alt="brands" width={80} height={10} />
-              <Image src="/group-4.png" alt="brands" width={80} height={10} />
-              <Image src="/group-5.png" alt="brands" width={80} height={10} />
-            </div>
-          </section>
-
+      
           {/* New Arrivals  */}
               <section>
                   <div className="pt-5 sm:pt-8 md:pt-10 lg:pt-14
@@ -365,68 +345,6 @@ export default function Home() {
                         View All</Button>
                   </div>
               </section>
-
-              {/* Browse */}
-                <section>
-                    <div className="bg-gray-100 md:pb-10">
-                          <div className="pt-5 sm:pt-8 md:pt-10 lg:pt-14
-                                      px-5 sm:px-8 md:px-10 lg:px-14">
-                            <h2 className="text-center font-bold
-                                    sm:text-xl md:text-2xl lg:text-4xl
-                                    ">BROWSE BY DRESS STYLE</h2>
-                            </div>
-
-                            <div className="md:flex gap-5 pt-10 px-20 md:pt-10 md:px-80">
-                              <div>
-                            <Image src="/z-1.jfif" alt="rating" width={300} height={500}/>
-                            <Image src="/z-2.jfif" alt="rating" width={300} height={500} className="pt-5" />
-                            </div>
-                            <div>
-                            <Image src="/z-3.jfif" alt="rating" width={300} height={500} className="pt-5 md:pt-0" />
-                            <Image src="/z-4.jfif" alt="rating" width={300} height={500} className="pt-5" />
-                            </div>
-                            </div>
-                    </div>
-                </section>
-
-
-              {/* Customers */}
-                  <section>
-                      <div className="pt-5 sm:pt-8 md:pt-10 lg:pt-14
-                                      px-5 sm:px-8 md:px-10 lg:px-14">
-                            <h2 className="text-center font-bold
-                                    sm:text-xl md:text-2xl lg:text-4xl
-                                    ">OUR HAPPY CUSTOMERS</h2>
-                            </div>
-                          <div className="md:flex md:gap-5 px-5 pt-5 md:pt-10
-                                  pb-5 sm:pb-8 md:pb-10 lg:pb-14">
-                          
-                          <div className="bg-gray-100 p-5 rounded-lg">
-                          <Image src="/group-6.png" alt="rating" width={150} height={20} />
-                          <h3 className="text-base font-bold pt-5">Sarah M.</h3>
-                          <p className="text-sm font-light text-gray-500 pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. At eius
-                             accusantium ad laudantium maxime a laboriosam doloremque repellendus!
-                              Ad eligendi architecto a quod culpa. Velit quos magnam possimus beatae fugiat!</p>
-                          </div>
-                            <br/>
-                          <div className="bg-gray-100 p-5 rounded-lg">
-                          <Image src="/group-6.png" alt="rating" width={150} height={20} />
-                          <h3 className="text-base font-bold pt-5">Sarah M.</h3>
-                          <p className="text-sm font-light text-gray-500 pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. At eius
-                             accusantium ad laudantium maxime a laboriosam doloremque repellendus!
-                              Ad eligendi architecto a quod culpa. Velit quos magnam possimus beatae fugiat!</p>
-                          </div>
-                          <br/>
-                          <div className="bg-gray-100 p-5 rounded-lg">
-                          <Image src="/group-6.png" alt="rating" width={150} height={20} />
-                          <h3 className="text-base font-bold pt-5">Sarah M.</h3>
-                          <p className="text-sm font-light text-gray-500 pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. At eius
-                             accusantium ad laudantium maxime a laboriosam doloremque repellendus!
-                              Ad eligendi architecto a quod culpa. Velit quos magnam possimus beatae fugiat!</p>
-                          </div>
-
-                          </div>
-                  </section>
 
                   {/* Update */}
                   <section>
