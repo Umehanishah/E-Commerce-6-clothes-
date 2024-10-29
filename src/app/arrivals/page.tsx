@@ -33,7 +33,7 @@ export default function Arrivals() {
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/p-3.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/p-3.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Party Wear</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -68,7 +68,7 @@ export default function Arrivals() {
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/p-3.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/p-3.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Party Wear</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -103,7 +103,7 @@ export default function Arrivals() {
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/p-3.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/p-3.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Party Wear</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />

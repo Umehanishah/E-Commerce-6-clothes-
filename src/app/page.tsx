@@ -89,7 +89,7 @@ export default function Home() {
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/p-3.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/p-3.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Party Wear</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -130,21 +130,21 @@ export default function Home() {
 
                   <div className="grid grid-cols-2 md:grid-cols-5 gap-10 px-10 pt-10">
                       <div>
-                        <Image src="/s-1.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/s-1.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div>  
-                        <Image src="/s-2.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/s-2.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/s-3.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/s-3.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -172,14 +172,14 @@ export default function Home() {
                       </div>
 
                       <div className="hidden md:block">  
-                        <Image src="/s-7.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/s-7.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/s-8.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/s-8.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -193,14 +193,14 @@ export default function Home() {
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/s-10.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/s-10.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/s-11.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/s-11.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -255,42 +255,42 @@ export default function Home() {
 
                   <div className="grid grid-cols-2 md:grid-cols-5 gap-10 px-10 pt-10">
                       <div>
-                        <Image src="/w-1.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-1.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div>  
-                        <Image src="/w-2.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-2.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/w-3.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-3.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/w-4.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-4.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/w-5.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-5.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/w-6.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-6.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -304,28 +304,28 @@ export default function Home() {
                       </div> 
 
                       <div className="hidden md:block"> 
-                        <Image src="/w-8.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-8.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/w-9.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-9.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/w-10.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-10.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
                       </div>
 
                       <div className="hidden md:block">
-                        <Image src="/w-11.jfif" alt="clothes" width={200} height={500}/>
+                        <Image src="/w-11.jpg" alt="clothes" width={200} height={500}/>
                         <h3>Couple Summer Special</h3>
                         <p>$120</p>
                         <Image src="/group-6.png" alt="rating" width={150} height={20} />
@@ -378,12 +378,12 @@ export default function Home() {
 
                             <div className="md:flex gap-5 pt-10 px-20 md:pt-10 md:px-80">
                               <div>
-                            <Image src="/z-1.jfif" alt="rating" width={300} height={500}/>
-                            <Image src="/z-2.jfif" alt="rating" width={300} height={500} className="pt-5" />
+                            <Image src="/z-1.jpg" alt="rating" width={300} height={500}/>
+                            <Image src="/z-2.jpg" alt="rating" width={300} height={500} className="pt-5" />
                             </div>
                             <div>
-                            <Image src="/z-3.jfif" alt="rating" width={300} height={500} className="pt-5 md:pt-0" />
-                            <Image src="/z-4.jfif" alt="rating" width={300} height={500} className="pt-5" />
+                            <Image src="/z-3.jpg" alt="rating" width={300} height={500} className="pt-5 md:pt-0" />
+                            <Image src="/z-4.jpg" alt="rating" width={300} height={500} className="pt-5" />
                             </div>
                             </div>
                     </div>
